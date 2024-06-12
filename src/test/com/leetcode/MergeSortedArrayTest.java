@@ -35,7 +35,7 @@ public class MergeSortedArrayTest {
         int [] nums2 = {};
         mergeSortedArray.merge(nums1,nums1.length,nums2,nums2.length);
         int [] expected = {1};
-        assertArrayEquals(expected, nums1);
+        AssertArrayUtil.assertArrayEquals(expected, nums1);
     }
 
     @Order(3)
@@ -46,7 +46,7 @@ public class MergeSortedArrayTest {
         int [] nums2 = {1};
         mergeSortedArray.merge(nums1,nums1.length,nums2,nums2.length);
         int [] expected = {1};
-        assertArrayEquals(expected, nums1);
+        AssertArrayUtil.assertArrayEquals(expected, nums1);
     }
 
     @Order(4)
@@ -57,7 +57,7 @@ public class MergeSortedArrayTest {
         int [] nums2 = {1};
         mergeSortedArray.merge(nums1,nums1.length,nums2,nums2.length);
         int [] expected = {1,1};
-        assertArrayEquals(expected, nums1);
+        AssertArrayUtil.assertArrayEquals(expected, nums1);
     }
 
     @Order(5)
@@ -68,7 +68,7 @@ public class MergeSortedArrayTest {
         int [] nums2 = {2};
         mergeSortedArray.merge(nums1,nums1.length,nums2,nums2.length);
         int [] expected = {1,2};
-        assertArrayEquals(expected, nums1);
+        AssertArrayUtil.assertArrayEquals(expected, nums1);
     }
 
     @Order(6)
@@ -79,7 +79,7 @@ public class MergeSortedArrayTest {
         int [] nums2 = {2,5,6};
         mergeSortedArray.merge(nums1,nums1.length,nums2,nums2.length);
         int [] expected = {1,2,2,3,5,6};
-        assertArrayEquals(expected, nums1);
+        AssertArrayUtil.assertArrayEquals(expected, nums1);
     }
 
 
@@ -91,24 +91,10 @@ public class MergeSortedArrayTest {
         int [] nums2 = {1,2,2};
         mergeSortedArray.merge(nums1,nums1.length,nums2,nums2.length);
         int [] expected = {-1,0,0,1,2,2,3,3,3};
-        assertArrayEquals(expected, nums1);
+        AssertArrayUtil.assertArrayEquals(expected, nums1);
     }
 
 
-    void assertArrayEquals(int []expected, int []actual) {
-        assertEquals(expected.length, actual.length);
-        for(int i=0; i<expected.length; i++ ) {
-            assertEquals(expected[i], actual[i]);
-        }
-    }
-
-    void printArray(int [] nums) {
-        IntStream.range(0, nums.length).forEach(i -> {
-            System.out.print(nums[i]);
-            System.out.print(",");
-        });
-        System.out.println();
-    }
 }
 
 

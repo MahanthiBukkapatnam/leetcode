@@ -3,7 +3,7 @@ package com.leetcode;
 import java.util.stream.IntStream;
 
 /**
- * Hello world!
+ * Remove Element
  */
 public class RemoveElement {
 
@@ -53,21 +53,14 @@ public class RemoveElement {
                 j--;
             }
             System.out.println("Operation: i=[" + i + "], j=[" + j + "]" );
-            printArray(nums);
+            DebugUtil.printArray(nums);
         }
 
         System.out.println("End: i=[" + i + "], j=[" + j + "]" );
-        printArray(nums);
+        DebugUtil.printArray(nums);
 
         return i;
     }
 
-    void printArray(int [] nums) {
-        IntStream.range(0, nums.length).forEach(i -> {
-            System.out.print(nums[i]);
-            System.out.print(",");
-        });
-        System.out.println();
-    }
 
 }

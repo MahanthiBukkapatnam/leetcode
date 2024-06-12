@@ -8,7 +8,7 @@ import java.util.stream.IntStream;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 /**
- * Unit test for com.leetcode.RemoveElement
+ * Unit test for com.leetcode.RemoveDupsFromSortedArrayApp2
  *
  */
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
@@ -17,24 +17,6 @@ public class RemoveDupsFromSortedArrayAppTest {
 
     @Nested
     class BaseTestCases {
-//        @Order(0)
-//        @DisplayName("simple case 0")
-//        @Test
-//        void case0() {
-//            int [] nums = {};
-//
-//            int actualSize = app.removeDuplicates(nums);
-//            assertEquals(0, actualSize);
-//        }
-//
-//        @Order(1)
-//        @DisplayName("simple case 1")
-//        @Test
-//        void case1() {
-//            int [] nums = {1};
-//            int actualSize = app.removeDuplicates(nums);
-//            assertEquals(1, actualSize);
-//        }
 
         @Order(2)
         @DisplayName("simple case 2")
@@ -111,20 +93,6 @@ public class RemoveDupsFromSortedArrayAppTest {
         }
     }
 
-    void assertArrayEquals(int []expected, int []actual) {
-        assertEquals(expected.length, actual.length);
-        for(int i=0; i<expected.length; i++ ) {
-            assertEquals(expected[i], actual[i]);
-        }
-    }
-
-    void printArray(int [] nums) {
-        IntStream.range(0, nums.length).forEach(i -> {
-            System.out.print(nums[i]);
-            System.out.print(",");
-        });
-        System.out.println();
-    }
 }
 
 

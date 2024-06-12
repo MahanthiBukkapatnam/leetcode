@@ -1,11 +1,8 @@
 package com.leetcode;
 
-import com.leetcode.RemoveElement;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
-import java.util.stream.IntStream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
@@ -35,9 +32,9 @@ public class RemoveElementTest {
     @Test
     void twoElementWith2Value_case2() {
         int nums[] = {1,1};
-        printArray(nums);
+        DebugUtil.printArray(nums);
         int result = removeElement.removeElement(nums,1);
-        printArray(nums);
+        DebugUtil.printArray(nums);
         assertEquals(0, result);
     }
 
@@ -45,9 +42,9 @@ public class RemoveElementTest {
     @Test
     void singleElementWithoutValue_case1() {
         int nums[] = {1};
-        printArray(nums);
+        DebugUtil.printArray(nums);
         int result = removeElement.removeElement(nums,0);
-        printArray(nums);
+        DebugUtil.printArray(nums);
         assertEquals(1, result);
     }
 
@@ -55,9 +52,9 @@ public class RemoveElementTest {
     @Test
     void twoElementWithoutValue_case1() {
         int nums[] = {1,2};
-        printArray(nums);
+        DebugUtil.printArray(nums);
         int result = removeElement.removeElement(nums,0);
-        printArray(nums);
+        DebugUtil.printArray(nums);
         assertEquals(2, result);
     }
 
@@ -65,9 +62,9 @@ public class RemoveElementTest {
     @Test
     void twoElementWithValue_case1() {
         int nums[] = {1,2};
-        printArray(nums);
+        DebugUtil.printArray(nums);
         int result = removeElement.removeElement(nums,2);
-        printArray(nums);
+        DebugUtil.printArray(nums);
         assertEquals(1, result);
     }
 
@@ -75,9 +72,9 @@ public class RemoveElementTest {
     @Test
     void twoElementWithValue_case2() {
         int nums[] = {1,2};
-        printArray(nums);
+        DebugUtil.printArray(nums);
         int result = removeElement.removeElement(nums,1);
-        printArray(nums);
+        DebugUtil.printArray(nums);
         assertEquals(1, result);
     }
 
@@ -85,9 +82,9 @@ public class RemoveElementTest {
     @Test
     void twoElementWithValue_case3() {
         int nums[] = {2,1};
-        printArray(nums);
+        DebugUtil.printArray(nums);
         int result = removeElement.removeElement(nums,1);
-        printArray(nums);
+        DebugUtil.printArray(nums);
         assertEquals(1, result);
         assertEquals(2, nums[0]);
         assertEquals(1, nums[1]);
@@ -96,12 +93,12 @@ public class RemoveElementTest {
     @Test
     void case1() {
         int nums[] = {3,2,2,3};
-        printArray(nums);
+        DebugUtil.printArray(nums);
         int result = removeElement.removeElement(nums,3);
 
         assertEquals(2, result);
 
-        printArray(nums);
+        DebugUtil.printArray(nums);
 
         assertEquals(2, nums[0]);
         assertEquals(2, nums[1]);
@@ -112,12 +109,12 @@ public class RemoveElementTest {
     @Test
     void case2() {
         int nums[] = {4,5};
-        printArray(nums);
+        DebugUtil.printArray(nums);
         int result = removeElement.removeElement(nums,5);
 
         assertEquals(1, result);
 
-        printArray(nums);
+        DebugUtil.printArray(nums);
 
         assertEquals(4, nums[0]);
         assertEquals(5, nums[1]);
@@ -126,25 +123,18 @@ public class RemoveElementTest {
     @Test
     void case3() {
         int nums[] = {2,2,3};
-        printArray(nums);
+        DebugUtil.printArray(nums);
         int result = removeElement.removeElement(nums,2);
 
         assertEquals(1, result);
 
-        printArray(nums);
+        DebugUtil.printArray(nums);
 
         assertEquals(3, nums[0]);
         assertEquals(2, nums[1]);
         assertEquals(2, nums[2]);
     }
 
-    void printArray(int [] nums) {
-        IntStream.range(0, nums.length).forEach(i -> {
-            System.out.print(nums[i]);
-            System.out.print(",");
-        });
-        System.out.println();
-    }
 }
 
 

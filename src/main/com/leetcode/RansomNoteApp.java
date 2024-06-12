@@ -36,13 +36,4 @@ public class RansomNoteApp {
         return array;
     }
 
-    void printArray(int [] nums) {
-        System.out.print("[");
-        IntStream.range(0, nums.length).forEach(i -> {
-            System.out.print(nums[i]);
-            System.out.print(",");
-        });
-        System.out.println("]");
-    }
-
 }

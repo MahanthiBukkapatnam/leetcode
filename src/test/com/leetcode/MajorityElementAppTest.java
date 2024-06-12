@@ -33,20 +33,7 @@ public class MajorityElementAppTest {
         assertEquals(1, majorityElement);
     }
 
-    void assertArrayEquals(int []expected, int []actual) {
-        assertEquals(expected.length, actual.length);
-        for(int i=0; i<expected.length; i++ ) {
-            assertEquals(expected[i], actual[i]);
-        }
-    }
 
-    void printArray(int [] nums) {
-        IntStream.range(0, nums.length).forEach(i -> {
-            System.out.print(nums[i]);
-            System.out.print(",");
-        });
-        System.out.println();
-    }
 }
 
 
