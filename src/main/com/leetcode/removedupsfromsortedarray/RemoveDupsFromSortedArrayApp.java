@@ -1,8 +1,4 @@
-package com.leetcode;
-
-import java.util.HashMap;
-import java.util.Map;
-import java.util.stream.IntStream;
+package com.leetcode.removedupsfromsortedarray;
 
 public class RemoveDupsFromSortedArrayApp {
 

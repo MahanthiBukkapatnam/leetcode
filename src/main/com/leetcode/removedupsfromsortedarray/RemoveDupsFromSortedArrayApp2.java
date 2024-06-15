@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.removedupsfromsortedarray;
 
 import java.util.Arrays;
 import java.util.Set;
@@ -15,8 +15,14 @@ public class RemoveDupsFromSortedArrayApp2 {
             nums[tempIndex] = nums[i];
             tempIndex++;
 
-            while(nums[i] == nums[i+1]) {
+            if(i+1 == nums.length) {
+                break;
+            }
+            while (nums[i] == nums[i + 1]) {
                 i++;
+                if(i+1 == nums.length) {
+                    break;
+                }
             }
 
             i++;
