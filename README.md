@@ -11,6 +11,7 @@ Welcome to Mahanthi Bukkapatnam's LeetCode world
 | 2. Palindrome Number                    | Easy       | 06/14/2024      |
 | 3. Add Two Numbers                      | Medium     | 06/15/2024      |
 | 80. Remove Duplicates from Sorted Array II | Medium  | 06/15/2024      |
+| 189. Rotate Array | Medium | 06/15/2024 |
 
 
 
