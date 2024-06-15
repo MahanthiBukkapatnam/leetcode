@@ -1,22 +1,33 @@
 package com.leetcode;
 
 public class PalindromeNumber {
+
+
     public boolean isPalindrome(int i) {
-        String value = Integer.valueOf(i).toString();
-        String reverseValue = reverse(value);
-        return value.equals(reverseValue);
-    }
-
-    public String reverse(String value) {
-        String valueStr = "" + value;
-        char [] revChars = new char[valueStr.length()];
-
-        int j=valueStr.length()-1;
-        for(int i=0; i<=valueStr.length()-1; i++) {
-            revChars[j] = valueStr.charAt(i);
-            j--;
+        if(i<0) {
+            return false;
+        }
+        if(i<10) {  //Single Digit
+            return true;
         }
 
-        return new String(revChars);
+        int increasingValue = 0;
+        int reducingValue = i;
+
+        while(true) {
+            if(reducingValue<10) { //terminal case
+                //System.out.println(reducingValue);
+                increasingValue = increasingValue*10 + reducingValue;
+                break;
+            }
+            int lastDigit = reducingValue % 10;
+            //System.out.println(lastDigit);
+            increasingValue = increasingValue*10 + lastDigit;
+            reducingValue /= 10;
+        }
+        //System.out.println(increasingValue);
+
+        return increasingValue==i;
     }
+
 }

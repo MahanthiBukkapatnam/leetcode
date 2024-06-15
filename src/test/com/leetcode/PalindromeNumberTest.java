@@ -2,10 +2,10 @@ package com.leetcode;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 /**
  * Unit test for com.leetcode.PalindromeNumber
@@ -19,34 +19,6 @@ public class PalindromeNumberTest {
     @Test
     void invocationTest() {
 //        Exception ex = assertThrows(RuntimeException.class, () -> removeElement.removeElement(null,0));
-    }
-
-    @Nested
-    class ReverseTestCases {
-        @Test
-        void reverseForNull() {
-            assertEquals("llun", app.reverse(null));
-        }
-
-        @Test
-        void reverseForEmpty() {
-            assertEquals("", app.reverse(""));
-        }
-
-        @Test
-        void reverseForA() {
-            assertEquals("A", app.reverse("A"));
-        }
-
-        @Test
-        void reverseForAB() {
-            assertEquals("BA", app.reverse("AB"));
-        }
-
-        @Test
-        void reverseForABC() {
-            assertEquals("CBA", app.reverse("ABC"));
-        }
     }
 
 
@@ -94,6 +66,13 @@ public class PalindromeNumberTest {
     void for0() {
         assertTrue(app.isPalindrome(0));
     }
+
+    @DisplayName("For 1000021")
+    @Test
+    void for1000021() {
+        assertFalse(app.isPalindrome(1000021));
+    }
+
 
 }
 

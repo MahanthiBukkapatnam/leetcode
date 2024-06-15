@@ -21,4 +21,18 @@ public class DebugUtil {
         System.out.println(variableName + "[" + index + "]" + " = " + "[" + value.toString() + "]");
     }
 
+
+    public String reverse(String value) {
+        String valueStr = "" + value;
+        char [] revChars = new char[valueStr.length()];
+
+        int j=valueStr.length()-1;
+        for(int i=0; i<=valueStr.length()-1; i++) {
+            revChars[j] = valueStr.charAt(i);
+            j--;
+        }
+
+        return new String(revChars);
+    }
+
 }
