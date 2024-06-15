@@ -163,6 +163,27 @@ public class AddTwoNumbersTest {
         assertNull(listNodeResult.next.next.next);
     }
 
+    @Order(8)
+    @DisplayName("simple case 9")
+    @Test
+    void case9() {
+        ListNode listNode1 = new ListNode(9);
+        listNode1.next =  new ListNode(9);
+        listNode1.next.next =  new ListNode(9);
+
+        ListNode listNode2 = new ListNode(9);
+        listNode2.next =  new ListNode(9);
+        listNode2.next.next =  new ListNode(9);
+
+        ListNode listNodeResult = app.addTwoNumbers(listNode1, listNode2);
+        assertNotNull(listNodeResult);
+        assertEquals(8, listNodeResult.val);
+        assertEquals(9, listNodeResult.next.val);
+        assertEquals(9, listNodeResult.next.next.val);
+        assertEquals(1, listNodeResult.next.next.next.val);
+        assertNull(listNodeResult.next.next.next.next);
+    }
+
 }
 
 
