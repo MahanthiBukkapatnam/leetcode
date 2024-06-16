@@ -12,6 +12,7 @@ Welcome to Mahanthi Bukkapatnam's LeetCode world
 | 3. Add Two Numbers                      | Medium     | 06/15/2024      |
 | 80. Remove Duplicates from Sorted Array II | Medium  | 06/15/2024      |
 | 189. Rotate Array | Medium | 06/15/2024 |
+| 121. Best Time to Buy and Sell Stock | Easy | 06/15/2024 |
 
 
 
