@@ -50,8 +50,8 @@ Problem Solving Approach:
 
 
 Books:
-How to solve it - Georg Polya
-How to prove it - Daniel J Velleman
+* How to solve it - Georg Polya
+* How to prove it - Daniel J Velleman
 
 
 How I debug:
