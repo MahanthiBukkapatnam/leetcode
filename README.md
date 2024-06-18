@@ -1,5 +1,22 @@
 Welcome to Mahanthi Bukkapatnam's LeetCode world
 
+My Motivation and Expectation for doing LeetCode
+
+* Learn Algorithmic thought process
+* I want to decode the thought process to be a master at competitive programming
+* Challenge - I want to boost my own morale.
+* I want some bragging rights. I want to be associated with the leetcode brand
+* Help others learn to be a better programmer (There is a teacher in me)
+* I am currently employed and I want to do these challenges not to get a job, just to revel in the joy of solving problems. I want to appreciate the beauty of these Data Structures and Algorithms.
+* I want to apply Math concepts. I want to get good at applying the Math thought process
+
+Here is a quote regarding walking and destination:
+If you love the journey, you will walk farther than the man who loves the destination -KAWULIRA EDWIN
+
+* My goal is to solve a lot of problems. Let me see how far I go.  
+
+
+
 LeetCode Submission Timeline
 
 | Problem                                 | Difficulty | Date Submitted  |
@@ -17,7 +34,24 @@ LeetCode Submission Timeline
 | 121. Best Time to Buy and Sell Stock | Easy | 06/15/2024 |
 
 
-Problem Solving Approach
+Problem Solving Approach:
+
+* Use Pen and Paper
+* Understand the problem. 
+* Do the brute force strategy first
+* Identify Cases. List the cases on paper
+* Start with Unit Tests
+* Code the solution
+* Analyze the complexity of the code
+* Submit the solution - rinse and repeat will the solution is accepted
+* Commit the code into GitHub. [This is important]
+* Improvise the solution if you have the time and energy
+* Take notes as to what the pattern this problem has. 
+
+
+Books:
+How to solve it - Georg Polya
+How to prove it - Daniel J Velleman
 
 
 How I debug:
@@ -36,6 +70,9 @@ To enable proper logging, I have developed a set of Debugging Util classes.
 Courses:
 
 
+Roadmap:
+
+Roadmap by NeetCode:  https://neetcode.io/roadmap
 
 
 * References
