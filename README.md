@@ -69,15 +69,15 @@ To enable proper logging, I have developed a set of Debugging Util classes.
 
 Courses:
 
-| Course Name | Author           | URL |
-|-------------|------------------|-----|
-| Algorithms  | Abdul Bari       | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
-| Algorithm Specialization | Robert Sedjwick  | |
-| Master Competitive Programming - Complete Beginner to Advanced | Geeks for Geeks  | https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/ |
-| Dynamic Programming Algorithms Master Course | Apaar Kamal and Prateek Narang | udemy.com |
-| Master competitive coding techniques - maths, number theory, dynamic programming, advanced data structures &amp; algorithms | | udemy.com |
-| Learn Graphs Algorithms in Computer Science &amp; Mathematics, theory + hands-on coding and ace Competitive Coding problems! | | udemy.com |
-
+| Course Name                                                                                                                  | Author           | URL                                                                       |
+|------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------------------------------------|
+| 10 Best Data Structures & Algorithms Courses to Take in 2024                                                                 | Elham Nazif      | https://www.classcentral.com/report/best-algos-data-structure-courses/    |
+| Algorithms                                                                                                                   | Abdul Bari       | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O  |
+| Algorithm Specialization                                                                                                     | Robert Sedjwick  |                                                                           |
+| Master Competitive Programming - Complete Beginner to Advanced                                                               | Geeks for Geeks  | https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/   |
+| Dynamic Programming Algorithms Master Course                                                                                 | Apaar Kamal and Prateek Narang | udemy.com                                                                 |
+| Master competitive coding techniques - maths, number theory, dynamic programming, advanced data structures &amp; algorithms  | | udemy.com                                                                 |
+| Learn Graphs Algorithms in Computer Science &amp; Mathematics, theory + hands-on coding and ace Competitive Coding problems! | | udemy.com                                                                 |
 
 
 
