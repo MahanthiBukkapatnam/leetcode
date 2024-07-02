@@ -6,6 +6,10 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+/**
+ * https://leetcode.com/problems/maximum-height-of-a-triangle/description/
+ *
+ */
 public class MaxHeightOfTriangleTest {
 
     MaxHeightOfTriangle app = new MaxHeightOfTriangle();
