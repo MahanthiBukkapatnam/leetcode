@@ -33,6 +33,7 @@ LeetCode Submission Timeline
 | 189. Rotate Array | Medium | 06/15/2024     |
 | 121. Best Time to Buy and Sell Stock | Easy | 06/15/2024     |
 | 3200. Maximum Height of a Triangle | Easy | 07/01/2024     |
+| 67. Add Binary | Easy | 07/02/2024     |
 
 
 Problem Solving Approach:
