@@ -105,6 +105,7 @@ Math
 Roadmap:
 
 Roadmap by NeetCode:  https://neetcode.io/roadmap
+The Ultimate Topic List (A comprehensive list of topics in Competitive Programming):  https://youkn0wwho.academy/topic-list
 
 
 * References
