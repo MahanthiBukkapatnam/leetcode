@@ -106,7 +106,7 @@ Roadmap:
 
 Roadmap by NeetCode:  https://neetcode.io/roadmap
 The Ultimate Topic List (A comprehensive list of topics in Competitive Programming):  https://youkn0wwho.academy/topic-list
-
+Syllabus for CP (Eklavya Sharma): https://gist.github.com/sharmaeklavya2/8aa2830f3a46a3f46ff249b4e1f07767
 
 * References
 
