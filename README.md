@@ -26,16 +26,16 @@ Referenced:  https://www.freecodecamp.org/news/the-8-most-popular-coding-challen
 
 ### Roadmap/Syllabus:
 
-| Course Name                                                                         | Author                       | URL                                                                                                              |
-|-------------------------------------------------------------------------------------|------------------------------|------------------------------------------------------------------------------------------------------------------|
-| http://cp-algorithms.com/                                                           | Various                      | http://cp-algorithms.com/                                                                                |
-| Competive Programmer's Handbook                                                     | Antti Laaksonen              | https://cses.fi/book.pdf  https://usaco.guide/CPH.pdf                                                                            |
-| CP2                                                                                 | Steven Halim/Felix Halim     | https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf                                                                                |
-| The Ultimate Topic List (A comprehensive list of topics in Competitive Programming) | https://shahjalalshohag.com/ | https://youkn0wwho.academy/topic-list                                                                                |
-| Roadmap by NeetCode                                                                 | Navdeep Singh                | https://www.classcentral.com/report/best-algos-data-structure-courses/                                           |
-| GFG's Competitive Programming (CP) Handbook with Complete Roadmap                   | GFG                          | https://www.geeksforgeeks.org/competitive-programming-cp-handbook-with-complete-roadmap/                                           |
-| GfG's Competitive Programming - A Complete Guide                                    | GFG                          | https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=lbp                                           |
-| Syllabus for CP                                                                     | Eklavya Sharma               | https://gist.github.com/sharmaeklavya2/8aa2830f3a46a3f46ff249b4e1f07767                                           |
+| Course Name                                                                         | Author                       | URL                                                                                                          |
+|-------------------------------------------------------------------------------------|------------------------------|--------------------------------------------------------------------------------------------------------------|
+| http://cp-algorithms.com/                                                           | Various                      | http://cp-algorithms.com/                                                                                    |
+| Competive Programmer's Handbook                                                     | Antti Laaksonen              | https://cses.fi/book.pdf  https://usaco.guide/CPH.pdf                                                        |
+| CP2                                                                                 | Steven Halim/Felix Halim     | https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf                             |
+| The Ultimate Topic List (A comprehensive list of topics in Competitive Programming) | https://shahjalalshohag.com/ | https://youkn0wwho.academy/topic-list                                                                        |
+| Roadmap by NeetCode                                                                 | Navdeep Singh                | https://www.classcentral.com/report/best-algos-data-structure-courses/                                       |
+| GFG's Competitive Programming (CP) Handbook with Complete Roadmap                   | GFG                          | https://www.geeksforgeeks.org/competitive-programming-cp-handbook-with-complete-roadmap/                     |
+| GfG's Competitive Programming - A Complete Guide                                    | GFG                          | https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=lbp                              |
+| Syllabus for CP                                                                     | Eklavya Sharma               | https://gist.github.com/sharmaeklavya2/8aa2830f3a46a3f46ff249b4e1f07767                                      |
 
 
 ### Courses:
@@ -46,7 +46,7 @@ Referenced:  https://www.freecodecamp.org/news/the-8-most-popular-coding-challen
 | 10 Best Data Structures & Algorithms Courses to Take in 2024                                                                   | Elham Nazif                    | https://www.classcentral.com/report/best-algos-data-structure-courses/                                           |
 | Algorithms                                                                                                                     | Abdul Bari                     | https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O                                         |
 | Algorithm Specialization                                                                                                       | Robert Sedjwick                | https://www.coursera.org/learn/algorithms-part1<br/> https://www.coursera.org/learn/algorithms-part2             |
-| Master Competitive Programming - Complete Beginner to Advanced                                                                 | Geeks for Geeks                | https://www.geeksforgeeks.org/batch/competitive-programming                                          |
+| Master Competitive Programming - Complete Beginner to Advanced                                                                 | Geeks for Geeks                | https://www.geeksforgeeks.org/batch/competitive-programming                                                      |
 | Dynamic Programming Algorithms Master Course                                                                                   | Apaar Kamal and Prateek Narang | udemy.com                                                                                                        |
 | Master competitive coding techniques - maths, number theory, dynamic programming, advanced data structures &amp; algorithms    |                                | udemy.com                                                                                                        |
 | Learn Graphs Algorithms in Computer Science &amp; Mathematics, theory + hands-on coding and ace Competitive Coding problems!   |                                | udemy.com                                                                                                        |
@@ -58,16 +58,16 @@ Referenced:  https://www.freecodecamp.org/news/the-8-most-popular-coding-challen
 
 ### Math/Algorithm/Theory Courses (freely available):
 
-| Course Name                              | Author                  | URL                                                                       |
-|------------------------------------------|-------------------------|---------------------------------------------------------------------------|
-| Discrete Mathematics                     | Neso Academy            | https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3  |
-| MIT OCW, Intro to Algorithms             | MIT                     | https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/ |
-| Advanced Data Structures                 | MIT OCW                 | https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/   |
-| Bridge to Advanced Math                  | Jhevon Smith            | https://www.youtube.com/playlist?list=PLYoxM3oLTvxJbmMMy6Im5iYh05m3BQtTI  |
-| Theory of Computation                    | Michael Sipser          | https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/      |
-| Discrete Math                            | Trevor Bassett          | https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS  |
-| Advanced Math including Complex Analysis | Dr. Julian P. Großmann  | https://www.youtube.com/@brightsideofmaths/playlists                      |
-| DSA and Graph Algorithms                 | William Fisset          | https://www.youtube.com/@WilliamFiset-videos/playlists                                                                          |
+| Course Name                              | Author                  | URL                                                                         |
+|------------------------------------------|-------------------------|-----------------------------------------------------------------------------|
+| Discrete Mathematics                     | Neso Academy            | https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3    |
+| MIT OCW, Intro to Algorithms             | MIT                     | https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/   |
+| Advanced Data Structures                 | MIT OCW                 | https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/     |
+| Bridge to Advanced Math                  | Jhevon Smith            | https://www.youtube.com/playlist?list=PLYoxM3oLTvxJbmMMy6Im5iYh05m3BQtTI    |
+| Theory of Computation                    | Michael Sipser          | https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/        |
+| Discrete Math                            | Trevor Bassett          | https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS    |
+| Advanced Math including Complex Analysis | Dr. Julian P. Großmann  | https://www.youtube.com/@brightsideofmaths/playlists                        |
+| DSA and Graph Algorithms                 | William Fisset          | https://www.youtube.com/@WilliamFiset-videos/playlists                      |
 
 
 ### Algorithm Books
@@ -155,18 +155,18 @@ Update (12/20/2024): I am going through the Smart Coder program by Smart Intervi
 
 ### LeetCode Submission Timeline
 
-| Problem                                 | Difficulty | Date Submitted |
-|-----------------------------------------|------------|----------------|
-| 1. Two Sum                              | Easy       | 06/07/2024     |
-| 27. Remove Element                      | Easy       | 06/08/2024     |
-| 88. Merge Sorted Array                  | Easy       | 06/08/2024     |
-| 169. Majority Element                   | Easy       | 06/08/2024     |
-| 26. Remove Duplicates from Sorted Array | Easy       | 06/08/2024     |
-| 383. Ransom Note                        | Easy       | 06/09/2024     |
-| 2. Palindrome Number                    | Easy       | 06/14/2024     |
-| 3. Add Two Numbers                      | Medium     | 06/15/2024     |
-| 80. Remove Duplicates from Sorted Array II | Medium  | 06/15/2024     |
-| 189. Rotate Array | Medium | 06/15/2024     |
-| 121. Best Time to Buy and Sell Stock | Easy | 06/15/2024     |
-| 3200. Maximum Height of a Triangle | Easy | 07/01/2024     |
-| 67. Add Binary | Easy | 07/02/2024     |
+| Problem                                    | Difficulty | Date Submitted |
+|--------------------------------------------|------------|----------------|
+| 1. Two Sum                                 | Easy       | 06/07/2024     |
+| 27. Remove Element                         | Easy       | 06/08/2024     |
+| 88. Merge Sorted Array                     | Easy       | 06/08/2024     |
+| 169. Majority Element                      | Easy       | 06/08/2024     |
+| 26. Remove Duplicates from Sorted Array    | Easy       | 06/08/2024     |
+| 383. Ransom Note                           | Easy       | 06/09/2024     |
+| 2. Palindrome Number                       | Easy       | 06/14/2024     |
+| 3. Add Two Numbers                         | Medium     | 06/15/2024     |
+| 80. Remove Duplicates from Sorted Array II | Medium     | 06/15/2024     |
+| 189. Rotate Array                          | Medium     | 06/15/2024     |
+| 121. Best Time to Buy and Sell Stock       | Easy       | 06/15/2024     |
+| 3200. Maximum Height of a Triangle         | Easy       | 07/01/2024     |
+| 67. Add Binary                             | Easy       | 07/02/2024     |
