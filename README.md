@@ -26,18 +26,18 @@ Referenced:  https://www.freecodecamp.org/news/the-8-most-popular-coding-challen
 
 ### Roadmap/Syllabus:
 
-| Course Name                                                                         | Author                       | URL                                                                                               |
-|-------------------------------------------------------------------------------------|------------------------------|---------------------------------------------------------------------------------------------------|
-| http://cp-algorithms.com/                                                           | Various                      | http://cp-algorithms.com/                                                                         |
-| Competive Programmer's Handbook                                                     | Antti Laaksonen              | https://cses.fi/book.pdf  https://usaco.guide/CPH.pdf                                             |
-| CP2                                                                                 | Steven Halim/Felix Halim     | https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf                  |
-| Olympiad Combinatorics                                                              | Pranav Sriram                | https://archive.org/embed/olympiad-combinatorics                                                  |  
-| Syllabus for CP                                                                     | Eklavya Sharma               | https://gist.github.com/sharmaeklavya2/8aa2830f3a46a3f46ff249b4e1f07767                           |
-| T-414-ÁFLV: A Competitive Programming Course                                        | Bjarki Ágúst Guðmundsson     | https://algo.is/competitive-programming-course   (Course: https://github.com/SuprDewd/T-414-AFLV) | 
-| The Ultimate Topic List (A comprehensive list of topics in Competitive Programming) | https://shahjalalshohag.com/ | https://youkn0wwho.academy/topic-list                                                             |
-| Roadmap by NeetCode                                                                 | Navdeep Singh                | https://www.classcentral.com/report/best-algos-data-structure-courses/                            |
-| GFG's Competitive Programming (CP) Handbook with Complete Roadmap                   | GFG                          | https://www.geeksforgeeks.org/competitive-programming-cp-handbook-with-complete-roadmap/          |
-| GfG's Competitive Programming - A Complete Guide                                    | GFG                          | https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=lbp                   |
+| Course Name                                                                         | Author                       | URL                                                                                                           |
+|-------------------------------------------------------------------------------------|------------------------------|---------------------------------------------------------------------------------------------------------------|
+| http://cp-algorithms.com/                                                           | Various                      | http://cp-algorithms.com/                                                                                     |
+| Competive Programmer's Handbook                                                     | Antti Laaksonen              | https://cses.fi/book.pdf  https://usaco.guide/CPH.pdf                                                         |
+| CP2                                                                                 | Steven Halim/Felix Halim     | https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf                              |
+| Olympiad Combinatorics                                                              | Pranav Sriram                | https://archive.org/embed/olympiad-combinatorics                                                              |  
+| Syllabus for CP                                                                     | Eklavya Sharma               | https://gist.github.com/sharmaeklavya2/8aa2830f3a46a3f46ff249b4e1f07767                                       |
+| T-414-ÁFLV: A Competitive Programming Course                                        | Bjarki Ágúst Guðmundsson     | https://algo.is/competitive-programming-course   (Course: https://github.com/SuprDewd/T-414-AFLV) (Youtube: https://www.youtube.com/playlist?list=PLtdt0i7qeTaAL6U2eCAg04jRmacmkVJIZ) | 
+| The Ultimate Topic List (A comprehensive list of topics in Competitive Programming) | https://shahjalalshohag.com/ | https://youkn0wwho.academy/topic-list                                                                         |
+| Roadmap by NeetCode                                                                 | Navdeep Singh                | https://www.classcentral.com/report/best-algos-data-structure-courses/                                        |
+| GFG's Competitive Programming (CP) Handbook with Complete Roadmap                   | GFG                          | https://www.geeksforgeeks.org/competitive-programming-cp-handbook-with-complete-roadmap/                      |
+| GfG's Competitive Programming - A Complete Guide                                    | GFG                          | https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=lbp                               |
 
 
 ### Courses:
