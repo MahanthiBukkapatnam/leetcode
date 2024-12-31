@@ -104,8 +104,10 @@ Referenced:  https://www.freecodecamp.org/news/the-8-most-popular-coding-challen
 
 
 
-* References
-https://github.com/ashishps1/awesome-leetcode-resources
+## References
+* https://github.com/ashishps1/awesome-leetcode-resources
+* https://github.com/lnishan/awesome-competitive-programming
+* 
 
 
 ### My Problem-Solving Approach:
