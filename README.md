@@ -63,16 +63,18 @@ Referenced:  https://www.freecodecamp.org/news/the-8-most-popular-coding-challen
 
 ### Math/Algorithm/Theory Courses (freely available):
 
-| Course Name                              | Author                  | URL                                                                         |
-|------------------------------------------|-------------------------|-----------------------------------------------------------------------------|
-| Discrete Mathematics                     | Neso Academy            | https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3    |
-| MIT OCW, Intro to Algorithms             | MIT                     | https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/   |
-| Advanced Data Structures                 | MIT OCW                 | https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/     |
-| Bridge to Advanced Math                  | Jhevon Smith            | https://www.youtube.com/playlist?list=PLYoxM3oLTvxJbmMMy6Im5iYh05m3BQtTI    |
-| Theory of Computation                    | Michael Sipser          | https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/        |
-| Discrete Math                            | Trevor Bassett          | https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS    |
-| Advanced Math including Complex Analysis | Dr. Julian P. Großmann  | https://www.youtube.com/@brightsideofmaths/playlists                        |
-| DSA and Graph Algorithms                 | William Fisset          | https://www.youtube.com/@WilliamFiset-videos/playlists                      |
+| Course Name                              | Author                 | URL                                                                          |
+|------------------------------------------|------------------------|------------------------------------------------------------------------------|
+| Discrete Mathematics                     | Neso Academy           | https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3     |
+| MIT OCW, Intro to Algorithms             | MIT                    | https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/    |
+| Advanced Data Structures                 | MIT OCW                | https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/      |
+| Bridge to Advanced Math                  | Jhevon Smith           | https://www.youtube.com/playlist?list=PLYoxM3oLTvxJbmMMy6Im5iYh05m3BQtTI     |
+| Theory of Computation                    | Michael Sipser         | https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/         |
+| Discrete Math                            | Trevor Bassett         | https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS     |
+| Advanced Math including Complex Analysis | Dr. Julian P. Großmann | https://www.youtube.com/@brightsideofmaths/playlists                         |
+| DSA and Graph Algorithms                 | William Fisset         | https://www.youtube.com/@WilliamFiset-videos/playlists                       |
+| NOC: A basic course in number theory     | Prof Sripad Garge      | https://archive.nptel.ac.in/courses/111/101/111101137/                       |
+
 
 
 ### Algorithm Books
