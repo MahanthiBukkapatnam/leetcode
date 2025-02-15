@@ -79,6 +79,7 @@ Referenced:  https://www.freecodecamp.org/news/the-8-most-popular-coding-challen
 
 ### Algorithm Books
 * CLRT: Introduction to Algorithms: https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
+* Advice on how to read the above book:  https://www.quora.com/How-should-one-read-Introduction-to-Algorithms-CLRS-to-get-the-most-out-of-it
 * “Algorithms” by Robert Sedgewick and Kevin Wayne
 * “The Algorithm Design Manual” by Steven S. Skiena:
 * Competitive Programming 3 Paperback – by Steven Halim
@@ -114,6 +115,7 @@ Referenced:  https://www.freecodecamp.org/news/the-8-most-popular-coding-challen
 * https://github.com/lnishan/awesome-competitive-programming
 * https://codeforces.com/blog/entry/91363 (Important Topics for Competitive Programming)
 * https://www.dcs.gla.ac.uk/~pat/52233/Slides.html
+* https://github.com/williamfiset/Algorithms/tree/master
 * 
 
 
